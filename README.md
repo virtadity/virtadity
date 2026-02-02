@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @virtadity
-- 👀 I’m interested in Swift, iOS, MacOS, Vapor Development.
+- 👀 I’m interested in Swift, iOS, MacOS, Vapor, Java, Spring Development.
 - 📫 How to reach me virtadity@gmail.com
 
 The projects used only for educational purposes. 
