@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @virtadity
-- 👀 I’m interested in ML/DS, iOS, Spring Development, C# Development
-- 📫 How to reach me vmwjdroot@gmail.com
+👋 Hi, I’m @virtadity
+👀 I’m interested in ML/DS, iOS, Spring Development, C# Development
+📫 How to reach me vmwjdroot@gmail.com/virtadity@gmail.com
 
 The projects used only for educational purposes. 
 
