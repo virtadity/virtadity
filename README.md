@@ -8,6 +8,7 @@ My major ML/DS projects can be found in the following repositories:
 - [Predicting-Airline-Satisfaction](https://github.com/virtadity/Predicting-Airline-Satisfaction)
 - [Predicting-Electric-Vehicle-Purchases](https://github.com/virtadity/Predicting-Electric-Vehicle-Purchases)
 - [LLMClassificationFinetuning](https://github.com/virtadity/LLMClassificationFinetunning)
+- [Banana](https://github.com/virtadity/Banana)
 
 My major Java projects can be found in the following repositories:
 - [Manease](https://github.com/virtadity/Manease)
